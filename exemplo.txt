@@ -1,0 +1,1 @@
+Este é um arquivo para mostrar como criar um repositório no Github e sincronizar os aruqivos do computador com ele. Tem um erro ali que precisa ser corrigido.
